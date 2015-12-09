@@ -1,0 +1,23 @@
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\bin\Debug\Shared.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\bin\Debug\Shared.pdb
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\bin\Debug\NServiceBus.Core.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\bin\Debug\NServiceBus.Core.pdb
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\bin\Debug\NServiceBus.Core.xml
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\obj\Debug\Shared.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing\Shared\obj\Debug\Shared.pdb
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\Shared.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\Shared.pdb
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\Iesi.Collections.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NHibernate.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NServiceBus.Core.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NServiceBus.NHibernate.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\Iesi.Collections.xml
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NHibernate.xml
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NServiceBus.Core.pdb
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NServiceBus.Core.xml
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NServiceBus.NHibernate.pdb
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\bin\Debug\NServiceBus.NHibernate.xml
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\obj\Debug\Shared.dll
+C:\SUDH\ISP\NServiceBus\MultiplePubSubQueuing - Copy\Shared\obj\Debug\Shared.pdb
